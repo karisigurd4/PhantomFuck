@@ -1,0 +1,59 @@
+# Build results
+*.obj
+*.exe
+*.pch
+*.pdb
+*.idb
+*.ipch
+*.res
+*.aps
+*.ncb
+*.sdf
+*.user
+*.suo
+*.tlog
+*.lastbuildstate
+*.log
+*.vspscc
+*.vspx
+*.vsp
+*.vssscc
+*.cache
+*.ilk
+
+# Visual Studio C++ databases
+*.VC.db
+*.VC.opendb
+
+# Build directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+out/
+
+# Visual Studio workspace and project files
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Visual Studio Code settings folder (if you’re mixing VS and VSCode)
+.vscode/
+
+# Visual Studio folder
+.vs/
+
+# Any crash or debug dumps
+*.mdmp
+*.dmp
+
+# Temporary files
+*.tmp
+~$*
+
+# Ignore directories named 'ipch'
+ipch/
+
+# If you keep your intermediate files somewhere else
+#Intermediate/
